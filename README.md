@@ -1,4 +1,4 @@
-* **Contribuentes**
+* **Colaboradores**
 * **[Cauã Duarte](https://github.com/DuarteCa)**
 * **[Fabio Jun Ariga](https://github.com/FabioAriga)**
 * **[João Carlos Souza Pereira](https://github.com/JoCa-SP)**
