@@ -1,6 +1,6 @@
-* **Colaboradores**
+**Colaboradores**
 * **[Cauã Duarte](https://github.com/DuarteCa)**
 * **[Fabio Jun Ariga](https://github.com/FabioAriga)**
 * **[João Carlos Souza Pereira](https://github.com/JoCa-SP)**
-* **[João Vitor Morais Dias](https://github.com/MoraiisDev?tab=repositories)**
+* **[João Vitor Morais Dias](https://github.com/MoraiisDev)**
 * **[Vinicius de Almeida Romagnolo](https://github.com/ViniRomag)**
